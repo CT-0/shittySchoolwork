@@ -1,0 +1,85 @@
+body
+{
+    background-color: darkgray;          
+    text-align: center;
+          
+}
+
+ol
+{
+    list-style-type: disc;
+    list-style-position:inside;
+   
+}
+
+table
+{
+    
+
+    background-color: lightblue;
+    border-color: black;
+    table-layout: auto;
+    border-collapse: collapse;
+    margin: auto;
+    width:fit-content;
+    text-align: center;
+    
+}
+table img
+{
+    /* width: 300px;
+    height: auto; */
+    height:200px;
+    width:auto;
+}
+th
+{
+    border: solid;
+    border-color: yellow;
+    background-color: blue;
+    color: yellow;
+}
+td
+{
+    border:solid;
+    
+}
+img
+{
+    width: 48%;
+   height: 27%;
+}
+.even
+{
+    background-color: cyan;
+}
+.leftTable
+{
+   width: 50%;
+    margin-right: auto;
+}
+.mediaTable
+{
+    width: 60%;
+    margin-top: 5%;
+}
+td:hover
+{
+    background-color: red;
+    color: white;
+    border-color: black;
+    
+}
+
+.ad
+{
+    border: solid 3px;
+    width: fit-content;
+    margin-right: 50px;
+    margin-left: auto;
+    display: inline-block;
+    background-color: black;
+    color: red;
+    
+}
+

@@ -1,0 +1,18 @@
+body
+{
+background-color: darkgray;
+text-align: center;
+}
+
+
+.dashit
+{
+    width: 10%;
+    
+    border: 5px solid;
+    background-color: chartreuse;
+    color: red;
+    
+    
+}
+
